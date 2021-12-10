@@ -1,0 +1,7 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "@typehut/eslint-config-import",
+    "plugin:prettier/recommended"
+  ]
+}

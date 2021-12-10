@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[56],{7056:function(n,e,t){t.r(e),t.d(e,{title:function(){return u},sketch:function(){return c}});var u="Hello, World!",c=function(n){n.setup=function(){n.createCanvas(720,720);n.background("white"),n.rect(0,0,720,720)},n.draw=function(){n.ellipse(50,50,80,80)}}}}]);
